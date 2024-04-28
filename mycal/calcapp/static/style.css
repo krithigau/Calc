@@ -1,0 +1,11 @@
+input[type="button"]
+{
+    border: solid rgb(26, 24, 25) 2px;
+    width: 500%;
+}
+input[type="text"]
+{
+    background-color:rgb(22, 21, 21);
+    border: solid rgb(14, 15, 15) 2px;
+    width: 500%;
+}
